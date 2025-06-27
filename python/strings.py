@@ -26,4 +26,6 @@ print(message.upper()) #convert all characters to uppercase
 text = "I like BMW"
 new_text = text.replace("BMW", "TOYOTa")
 print(new_text)  # Output: I like TOYOTA
-    
+
+
+
